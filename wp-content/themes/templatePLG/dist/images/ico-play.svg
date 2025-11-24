@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="67px" viewBox="0 0 66 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/play</title>
+    <g id="Hispatec" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-Producto-Servicio-Detalle-Hispatec" transform="translate(-687.000000, -3242.000000)">
+            <g id="Group-12" transform="translate(0.000000, 3008.000000)">
+                <g id="Group" transform="translate(687.000000, 234.000000)">
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="3" cx="32.9809264" cy="33.0215827" rx="31.4809264" ry="31.5215827"></ellipse>
+                    <polygon id="Triangle" fill="#FFFFFF" transform="translate(33.434688, 33.457081) rotate(-270.000000) translate(-33.434688, -33.457081) " points="33.4346878 22.2771064 44.6284447 44.6370566 22.240931 44.6370566"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

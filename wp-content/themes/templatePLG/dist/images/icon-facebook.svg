@@ -1,0 +1,12 @@
+<svg id="icon_facebook" data-name="icon/facebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.659" height="33.659" viewBox="0 0 33.659 33.659">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.164" y1="-1.606" x2="0.657" y2="1.443" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0d2537"/>
+      <stop offset="1" stop-color="#008996"/>
+    </linearGradient>
+  </defs>
+  <g id="Oval">
+    <circle id="Oval-2" data-name="Oval" cx="16.829" cy="16.829" r="16.829" fill="url(#linear-gradient)"/>
+  </g>
+  <path id="Path" d="M9.717,10.959h-3v11H2.164v-11H0V7.093H2.164v-2.5A4.266,4.266,0,0,1,6.754,0l3.37.014V3.767H7.679a.926.926,0,0,0-.965,1.054V7.1h3.4Z" transform="translate(11.344 6.529)" fill="#fff"/>
+</svg>

@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /*.css
+Allow: /*.js
+Allow: /*.woff
+Allow: /*.woff2
+Allow: /*.ttf
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.gif
+Allow: /*.php
+Allow: /*.pdf
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /wp-*
+Allow: /wp-content/uploads/
+Sitemap: https://hispatec.com/sitemap_index.xml
